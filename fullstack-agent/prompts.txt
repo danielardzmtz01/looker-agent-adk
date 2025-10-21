@@ -1,0 +1,5 @@
+I need a Looker explore URL for the products explore from the the_look model. 
+I want to see products.item_name and products.count. 
+Please limit the results to 500 records and filter by products.category equal to 'Jeans'. 
+My looker instance is <your_looker_instance>
+
